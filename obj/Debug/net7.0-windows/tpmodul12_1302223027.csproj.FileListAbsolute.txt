@@ -1,0 +1,16 @@
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\bin\Debug\net7.0-windows\tpmodul12_1302223027.exe
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\bin\Debug\net7.0-windows\tpmodul12_1302223027.deps.json
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\bin\Debug\net7.0-windows\tpmodul12_1302223027.runtimeconfig.json
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\bin\Debug\net7.0-windows\tpmodul12_1302223027.dll
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\bin\Debug\net7.0-windows\tpmodul12_1302223027.pdb
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\tpmodul12_1302223027.Form1.resources
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\tpmodul12_1302223027.csproj.GenerateResource.cache
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\tpmodul12_1302223027.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\tpmodul12_1302223027.AssemblyInfoInputs.cache
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\tpmodul12_1302223027.AssemblyInfo.cs
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\tpmodul12_1302223027.csproj.CoreCompileInputs.cache
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\tpmodul12_1302223027.dll
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\refint\tpmodul12_1302223027.dll
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\tpmodul12_1302223027.pdb
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\tpmodul12_1302223027.genruntimeconfig.cache
+D:\Tugas pendahuluan\KPL\PROJECT\tpmodul12_1302223027\obj\Debug\net7.0-windows\ref\tpmodul12_1302223027.dll
